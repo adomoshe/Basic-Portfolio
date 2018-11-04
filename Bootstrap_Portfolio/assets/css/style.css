@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/concrete_seamless.png");
+    }
+
+#Ado{
+    height: 70px;
+    width: 200px;
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #ffffff;
+    float: left;
+    text-align: center;
+    line-height: 70px;
+}
+
+.navbar {
+    padding-left: 10%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.navbar-nav {
+    padding-left: 56%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.bg-light{
+    border-bottom: 0.1rem solid #cccccc;
+    background-color: #ffffff !important;
+}
